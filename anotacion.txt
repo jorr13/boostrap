@@ -1,0 +1,11 @@
+col-xs- = dispositivos mobiles
+
+col-sm- = dispositivos tablet
+
+col-md- = tablet formato horizontal
+
+col-lg- = pantallas grandes
+
+row = papa dentro tienen que haber columnas
+
+clearfix = arreglar errores
